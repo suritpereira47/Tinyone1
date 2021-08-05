@@ -3,6 +3,13 @@
 
 %BeginFont
 Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\web  development\tinyone3 - Copy\Font\font-awesome.min.css
+FileModTime:1566448530
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
 FontType:TrueType
 FontName:PTSans-Bold
 FamilyName:PT Sans
@@ -11,7 +18,7 @@ FullName:PT Sans Bold
 MenuName:PT Sans
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\web  development\tinyone\Font\PT_Sans\PTSans-Bold.ttf
+OutlineFileName:F:\web  development\tinyone3 - Copy\Font\PT_Sans\PTSans-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -33,7 +40,7 @@ FullName:PT Sans
 MenuName:PT Sans
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\web  development\tinyone\Font\PT_Sans\PTSans-Regular.ttf
+OutlineFileName:F:\web  development\tinyone3 - Copy\Font\PT_Sans\PTSans-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
